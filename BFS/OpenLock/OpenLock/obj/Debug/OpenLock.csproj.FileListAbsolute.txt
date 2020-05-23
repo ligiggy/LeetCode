@@ -1,0 +1,6 @@
+E:\Work\Coding Practice\C#Practice\OpenLock\OpenLock\bin\Debug\OpenLock.exe.config
+E:\Work\Coding Practice\C#Practice\OpenLock\OpenLock\bin\Debug\OpenLock.exe
+E:\Work\Coding Practice\C#Practice\OpenLock\OpenLock\bin\Debug\OpenLock.pdb
+E:\Work\Coding Practice\C#Practice\OpenLock\OpenLock\obj\Debug\OpenLock.csprojResolveAssemblyReference.cache
+E:\Work\Coding Practice\C#Practice\OpenLock\OpenLock\obj\Debug\OpenLock.exe
+E:\Work\Coding Practice\C#Practice\OpenLock\OpenLock\obj\Debug\OpenLock.pdb
